@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=j0aod3v&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=j0aod3v&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=j0aod3v&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j0aod3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=false" height="" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=j0aod3v&theme=github-dark&area=true&hide_border=false&hide_title=false" height="" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=j0aod3v&theme=discord&margin-h=10&margin-w=10&column=9&no-frame=false" height="150" alt="trophy graph"  />
