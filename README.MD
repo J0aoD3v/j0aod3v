@@ -1,8 +1,9 @@
 ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 <div>
   <a href="https://github.com/J0aoD3v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0aod3v&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0aod3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=false" alt="languages graph"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0aod3v&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0aod3v&layout=compact&card_width=320&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
