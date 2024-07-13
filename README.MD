@@ -20,7 +20,7 @@
 <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/J0aoD3v/j0aod3v/blob/main/ezgif.com-animated-gif-maker.gif?raw=true?width=676&height=676">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/J0aoD3v/j0aod3v/blob/main/ezgif.com-animated-gif-maker.gif?raw=true">
 </div>
   
   ##
