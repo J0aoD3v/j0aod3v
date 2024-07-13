@@ -3,12 +3,9 @@
   <a href="https://github.com/j0aod3v">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0aod3v&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0aod3v&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=j0aod3v&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=j0aod3v&theme=dracula&area=true&hide_border=false&hide_title=false"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app?username=j0aod3v&theme=dracula&margin-h=10&margin-w=10&column=9&no-frame=false"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
@@ -40,3 +37,12 @@
 ##
 
 <img src="https://raw.githubusercontent.com/j0aod3v/j0aod3v/output/snake.svg" alt="Snake animation" />
+
+##
+
+<div>
+  <a href="https://github.com/j0aod3v">
+  <img height="180em" src="https://streak-stats.demolab.com?user=j0aod3v&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=j0aod3v&theme=dracula&area=true&hide_border=false&hide_title=false"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app?username=j0aod3v&theme=dracula&margin-h=10&margin-w=10&column=9&no-frame=false"/>
+</div>
