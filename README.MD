@@ -2,6 +2,10 @@
 
 ###
 
+<div style="border-radius:12px">
+  <iframe src="https://open.spotify.com/embed/track/1r232i80xFiNHzSUmrFc01?utm_source=generator&theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/101115833?v=4"  />
 
 ###
@@ -42,8 +46,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-
-[![Ouça no Spotify](https://i.scdn.co/image/ab67616d0000b2735b55b2a8c82d4dba6dd8adcd)](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01?utm_source=generator&theme=0)
 
 ###
