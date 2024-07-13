@@ -7,12 +7,9 @@
 ###
 
 ## My favourite song
+[Clique aqui para ouvir a música no Spotify](music.html)
 
-![](https://open.spotify.com/track/5OGzWbdJVqlHGIVqqZyoPX?si=C50KiMltTCuv2BhENn6n3g)
-
-The same, but with Spotify URI
-
-![](spotify:track:5OGzWbdJVqlHGIVqqZyoPX)
+[![Ouça no Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01?utm_source=generator&theme=0)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
