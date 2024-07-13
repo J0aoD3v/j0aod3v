@@ -33,3 +33,7 @@
   <a href = "mailto:joao.colaco@discente.uenp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/j0aod3v/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+##
+
+<img src="https://raw.githubusercontent.com/j0aod3v/j0aod3v/output/snake.svg" alt="Snake animation" />
