@@ -43,4 +43,7 @@
   </a>
 </div>
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s59nvie08ba5vxh3yxnsxlqyh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01?utm_source=generator&theme=0)
+
 ###
