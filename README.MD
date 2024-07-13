@@ -1,13 +1,5 @@
 <h2 align="left">Hi 👋! My name is João Cláudio, and I'm a 20-year-old Computer Science student from the State University of Northern Paraná (UENP), Brazil.</h2>
 
-<a href="https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01?utm_source=generator&theme=0" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735b55b2a8c82d4dba6dd8adcd" alt="Ouça no Spotify" style="border-radius:12px; width:100%; height:152px;"/>
-</a>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/101115833?v=4"  />
-
 ###
 
 <div align="left">
@@ -45,6 +37,16 @@
   <a href="https://www.linkedin.com/in/j0aod3v/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/101115833?v=4"  />
+
+###
+
+<div align="center">
+  <img src="https://open.spotify.com/intl-pt/album/4pxgrlu74Sk31RrGRH8FjL?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
