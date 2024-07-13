@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hi 👋! My name is João Cláudio, and I'm a 20-year-old Computer Science student from the State University of Northern Paraná (UENP), Brazil.
 <div>
   <a href="https://github.com/J0aoD3v">
 
