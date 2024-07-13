@@ -6,6 +6,8 @@
 
 ###
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=s59nvie08ba5vxh3yxnsxlqyh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
