@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is João Cláudio, and I'm a 20-year-old Computer Science student from the State University of Northern Paraná (UENP), Brazil.</h2>
 
-###
+<a href="https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01?utm_source=generator&theme=0" target="_blank">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735b55b2a8c82d4dba6dd8adcd" alt="Ouça no Spotify" style="border-radius:12px; width:100%; height:152px;"/>
+</a>
 
-<div style="border-radius:12px">
-  <iframe src="https://open.spotify.com/embed/track/1r232i80xFiNHzSUmrFc01?utm_source=generator&theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/101115833?v=4"  />
 
