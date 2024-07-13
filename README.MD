@@ -40,7 +40,7 @@
 
 <div>
   <a href="https://github.com/j0aod3v">
-  <img height="180em" src="https://streak-stats.demolab.com?user=j0aod3v&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=j0aod3v&theme=dracula&area=true&hide_border=false&hide_title=false"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=j0aod3v&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
+  <img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=j0aod3v&theme=dracula&area=true&hide_border=false&hide_title=false"/>
   <img height="180em" src="https://github-profile-trophy.vercel.app?username=j0aod3v&theme=dracula&margin-h=10&margin-w=10&column=9&no-frame=false"/>
 </div>
