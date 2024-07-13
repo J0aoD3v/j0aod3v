@@ -1,4 +1,4 @@
-## Hi 👋! My name is João Cláudio, and I'm a 20-year-old Computer Science student from the State University of Northern Paraná (UENP), Brazil.
+## Hi 👋! My name is João Cláudio, and I'm a 21-year-old Computer Science student from the State University of Northern Paraná (UENP), Brazil.
 <div>
   <a href="https://github.com/j0aod3v">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0aod3v&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
