@@ -2,6 +2,10 @@
 
 ###
 
+<img align="left" height="200" src="https://i.pinimg.com/736x/2d/60/ea/2d60ea8701b4a68380c56bb67d8c0ef1.jpg"  />
+
+###
+
 <div align="right">
   <a href="mailto:joao.colaco@discente.uenp.edu.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
@@ -59,10 +63,6 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/736x/2d/60/ea/2d60ea8701b4a68380c56bb67d8c0ef1.jpg"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -75,11 +75,9 @@
 
 ###
 
-<p align="left">Profile Views</p>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/j0aod3v/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/j0aod3v/count.svg?"  />
+</div>
 
 ###
 
@@ -90,7 +88,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=stephenmoore&theme=default" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jimclydemonge&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
