@@ -1,6 +1,6 @@
 ## Hi 👋! My name is João Cláudio, and I'm a 20-year-old Computer Science student from the State University of Northern Paraná (UENP), Brazil.
 <div>
-  <a href="https://github.com/j0aod3v" style="text-decoration: none; color: inherit;">https://github.com/j0aod3v</a>
+  <a href="https://github.com/j0aod3v" style="text-decoration: none; color: inherit;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0aod3v&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0aod3v&layout=compact&card_width=320&langs_count=16&theme=dracula"/>
 </div>
